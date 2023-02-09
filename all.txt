@@ -82,7 +82,6 @@ CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd
 枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?shandd
-枣庄新闻综合,http://stream.zzgd.tv/1/sd/live.m3u8?shandd
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8?shandd
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
 中华美食,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd
@@ -168,7 +167,6 @@ NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 港台,#genre#
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -191,19 +189,12 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
-中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.flv
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
-东森新闻,http://116.11.140.3:8181/tsfile/live/1201_1.m3u8
-东森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=02
-三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
 三立INEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立INEWS,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立NEWS+,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
-年代新闻,http://www.yshmzmc.top/gtjm.php?id=live1077
 纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 其他,#genre#
