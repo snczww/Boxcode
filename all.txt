@@ -190,7 +190,6 @@ SITV游戏风云: http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/P
 成都都市生活: https://tv.fanmingming.com/api/v6?id=CDTV-3
 成都影视文艺: https://tv.fanmingming.com/api/v6?id=CDTV-4
 成都公共频道: https://tv.fanmingming.com/api/v6?id=CDTV-5
-
 海南
 海南少儿: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 海南文旅: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
