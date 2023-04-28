@@ -7,7 +7,7 @@ def check_url(line):
     if line.strip() == "":
         return None
     try:
-        response = requests.get(line.split(",")[1].strip(), timeout=5)
+        response = requests.get(line.split(",")[1].strip(), timeout=20)
         if response.status_code == 200:
             # URL可用，返回该行
             return line
@@ -25,7 +25,7 @@ with open('output/ip6live.txt', 'r', encoding='utf-8') as f:
         lines.append(line.strip())
 
     # 使用 ThreadPoolExecutor 创建一个线程池，将每个 URL 的检查过程提交给线程池进行并发处理
-    with concurrent.futures.ThreadPoolExecutor(max_workers=500) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
         # 使用 executor.map 方法并发处理每个 URL 的检查过程
         results = executor.map(check_url, lines)
 
@@ -34,3 +34,6 @@ with open('output/ip6live.txt', 'r', encoding='utf-8') as f:
             for result in results:
                 if result is not None:
                     f_out.write(result + '\n')
+
+    # 手动关闭线程池
+    executor.shutdown()
