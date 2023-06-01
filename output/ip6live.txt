@@ -1,12 +1,8 @@
 央视频道, #genre#
 
-CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 
 CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-
-CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 
 CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 
@@ -14,19 +10,13 @@ CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 
-CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-
 CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
-
-CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 
 CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 
 CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-
-CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 
 CGTN英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 
@@ -38,12 +28,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
 
-世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-
-文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
-
-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
-
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
@@ -51,8 +35,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
 
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 
 香港频道, #genre#
 
@@ -66,11 +48,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
-
 四川卫视,http://[2409:8087:4402:20:1:1216:401:11]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
-
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
 
@@ -84,8 +62,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 河南卫视,http://[2409:8087:4402:20:1:1216:401:41]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
 
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
-
 海南卫视,http://[2409:8087:4402:20:1:1216:401:15]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
 
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
@@ -98,8 +74,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 
-黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
-
 陕西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2360314992_451435426/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
@@ -107,8 +81,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 吉林卫视,http://[2409:8087:4402:20:1:1216:401:15]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
 
 云南卫视,http://[2409:8087:4402:20:1:1216:401:14]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
-
-西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 
 康巴卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 
@@ -202,17 +174,11 @@ NewTV系列, #genre#
 
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 
-欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
 超清频道, #genre#
 
 纯享超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 
-爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
-
 河南4K试验,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-
-爱看导视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
 
 央视频道,#genre#
 
@@ -246,13 +212,7 @@ CCTV 4K,https://p.ggiptv.com/v/4k.m3u8
 
 4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-4K影院,http://epg.112114.xyz/douyu/9249162
-
-影院4k,http://epg.112114.xyz/douyu/9249162
 
 爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 
@@ -360,8 +320,6 @@ CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3
 
 江苏,#genre#
 
-优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225795/1.m3u8?zjiangsd
-
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8?zjiangsd
 
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8?zjiangsd
@@ -424,8 +382,6 @@ CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3
 
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
 
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
-
 广东,#genre#
 
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zguangd
@@ -434,25 +390,13 @@ CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3
 
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 
-韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
-
-清新综合,http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
-
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
 
 河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-
-阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8?zguangd
-
 阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
-
-阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8?zguangd
-
-阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 
@@ -462,13 +406,7 @@ CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3
 
 北京,#genre#
 
-北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
-
-房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
 
 通州电视台,http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
 
@@ -499,8 +437,6 @@ CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3
 娄底综合频道,http://119.39.242.52:1935/live/zonghe/playlist.m3u8?zhund
 
 衡阳新闻综合,http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
-
-宜章新闻综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8?zhund
 
 浙江,#genre#
 
@@ -559,8 +495,6 @@ CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225784/1.m3
 绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 
 舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
-
-舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 
 舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
 
