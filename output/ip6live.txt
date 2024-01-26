@@ -240,7 +240,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 江苏卫视,http://115.149.139.141:10001/tsfile/live/1026_1.m3u8
 湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8?blog.ntnas.top
 湖北卫视,http://1.195.111.251:11190/tsfile/live/0132_1.m3u8
-海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 东南卫视,http://115.149.139.141:10001/tsfile/live/1035_1.m3u8?blog.ntnas.top
 江西卫视,http://tv.a1.gs/sjtv/jx/jxtv.php?id=jxws
@@ -264,19 +263,18 @@ ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 ELTA体育3台,https://elta.irtblztjwzxz000041.xyz/elta/download/33/index.m3u8
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 🇨🇳少儿频道,#genre#
-【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
+【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【海绵宝宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
-【猫和老鼠】汤姆和杰瑞的故事,https://epg.112114.xyz/huya/11352879
-搞笑的一家人,https://epg.112114.xyz/huya/11342402
-【中华小当家】看的我口水直流～,https://epg.112114.xyz/huya/11342413
+网球王子·费德勒看了想打人,https://epg.112114.xyz/huya/11352882
+蜡笔小新·逗比少年欢乐多,https://epg.112114.xyz/huya/11352970
 冲啊！四驱兄弟嘴控大战,https://epg.112114.xyz/huya/11352922
-灵剑山·试炼开启,https://epg.112114.xyz/huya/11352896
+茶啊二中,https://epg.112114.xyz/huya/11213191
 乐高大师赛！创意惊人,https://epg.112114.xyz/huya/26355776
 小时候玩不起的超帅玩具,https://epg.112114.xyz/huya/26355832
-成龍历险记·社会我阿福乌鸦坐飞机,https://epg.112114.xyz/huya/11352946
+哆啦A梦新番剧318-325,http://zzy789.xyz/bili.php?id=7204293
+【蜡笔小新】国语高清，24小时直播哦！,http://zzy789.xyz/bili.php?id=10375360
 🇨🇳黑莓频道,#genre#
 🇨🇳东森频道,#genre#
 🐆虎牙轮播,#genre#
@@ -356,7 +354,6 @@ CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 德清新闻综合,http://live.yingxi.tv/channel1/sd/live.m3u8?zzhed
-德清文化生活,http://live.yingxi.tv/channel2/sd/live.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 洞头综合频道,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
 文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
@@ -445,9 +442,7 @@ CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8?zsicd
 泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8?zsicd
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
-凉山新闻综合,http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel114103/playlist.m3u8?zsicd
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
-凉山语,http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8?zsicd
 自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
@@ -458,7 +453,6 @@ CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-威远新闻综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8?zsicd
 达川综合,https://livepull.dachuan.org.cn/live/fmzb1646287127433.m3u8?zsicd
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8?zsicd
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
@@ -468,7 +462,6 @@ CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 小金综合,http://xjlive.xjsc.gov.cn:8091/live/xwpd.m3u8?zsicd
 马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
