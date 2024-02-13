@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.githubusercontent.com/snczww/pythoncode/master/fan.txt;md5;1f399f48364375f6687cb69873482cc6",
+"spider":"https://raw.githubusercontent.com/snczww/pythoncode/master/22.jar;md5;ba25f0158e736233f0ac31484a9bdde6",
 "lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
