@@ -1,13 +1,13 @@
 {
 "spider":"https://raw.githubusercontent.com/snczww/pythoncode/master/fan.jar;md5;1f399f48364375f6687cb69873482cc6",
+"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "lives": [
 
     {"name": "SAO0","type": 0,"url": "https://raw.githubusercontent.com/snczww/pythoncode/master/output/ip6live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {"name": "IPV6","type": 0,"url": "https://raw.githubusercontent.com/snczww/pythoncode/master/output/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ]
-
+  ],
 "sites":[
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊┃搜索[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
