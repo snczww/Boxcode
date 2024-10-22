@@ -19,16 +19,13 @@ CCTV2 财经,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010
 CCTV2 财经,   http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8
 CCTV2 财经,   http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002135/index.m3u8
 CCTV2 财经,   https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV2 财经,   http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2 财经,   http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2 财经,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2 财经,   http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+CCTV2 财经,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
+CCTV2 财经,   http://222.218.158.156:8181/tsfile/live/0002_1.m3u8
 CCTV3 综艺,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 CCTV3 综艺,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 CCTV3 综艺,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
 CCTV3 综艺,   http://[2409:8087:74d9:21::6]/270000001128/9900000003/index.m3u8
 CCTV3 综艺,   https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV3 综艺,   http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3 综艺,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4 中文国际,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV4 中文国际,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -462,6 +459,9 @@ CCTV164K,   https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 青海卫视,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 青海卫视,   http://[2409:8087:74d9:21::6]/270000001128/9900000042/index.m3u8
 青海卫视,   http://39.134.136.151:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=00
+青海卫视,   http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+青海卫视,   http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040015/1.m3u8
+青海卫视,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8
 新疆卫视,   http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
 新疆卫视,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 新疆卫视,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -500,8 +500,7 @@ CCTV164K,   https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 香港卫视,   http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,   http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 凤凰频道,   #genre#
-凤凰资讯,   http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,   http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,   http://pi.0472.org/tv/cbn.php?id=xfjcHD
 湖南凤凰古城南华山,   https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
 湖南凤凰古城东关门,   https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
 CHC影迷电影,   http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
@@ -550,7 +549,6 @@ CETV4,   http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/8888
 嘉佳卡通,   http://39.134.136.151:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
 哒啵赛事,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8
 哒啵赛事,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
-哒啵赛事,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵电竞,   http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 优漫卡通,   http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
 优漫卡通,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -562,7 +560,6 @@ CETV4,   http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/8888
 黑莓动画,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 黑莓电影,   http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 黑莓电影,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
-黑莓电影,   http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 求索纪录,   http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,   http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,   http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
@@ -611,7 +608,6 @@ CETV4,   http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/8888
 军事评论,   http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
 军事评论,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 军事评论,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
-军事评论,   http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 明星大片,   http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
 欢乐剧场,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
 欢乐剧场,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -624,7 +620,6 @@ CETV4,   http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/8888
 超级综艺,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
 金牌综艺,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
 金牌综艺,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
-金牌综艺,   http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 上海频道,    #genre#
 上海新闻,   http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,   http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
@@ -786,6 +781,7 @@ NewTv中国功夫,   http://[2409:8087:74d9:21::6]/270000001128/9900000101/index
 纪录片频道,   #genre#
 人与自然,   http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,   http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+地理中国,   http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 生命脉动,   http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
 飞碟之谜01,   https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,   https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
@@ -793,7 +789,6 @@ NewTv中国功夫,   http://[2409:8087:74d9:21::6]/270000001128/9900000101/index
 美丽中国自然,   http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
 航拍中国第一季,   http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,   http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-中国村庄,   http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 梵净山,   http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
 乘着火车看中国,   http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 碌曲综合,   http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
@@ -1091,6 +1086,7 @@ dj舞曲英雄泪,   https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1
 车载DJ视频6,   https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
 好歌分享《精选6首伤感DJ舞曲》HD,   https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
 2021爆红《6首女生版伤感DJ》HD,   https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
+美人热舞洗脑DJ舞曲HD,   https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
 2021五首女声伤感DJ情歌精品HD,   https://vdse.bdstatic.com//c92e81328ef6d13ba7d44e6eb80f9f1e.mp4
 情歌DJ《怎么可以如此冷血》《为爱受尽相思罪》HD,   https://vdse.bdstatic.com//61e318ea76e984f2bedb66f1ed1583be.mp4
 DJ劲爆舞曲《在我心里有个你》《东南西北风》《一万个对不起》等HD,   https://vdse.bdstatic.com//8343b02f5e7465d4c5b07e54403438b8.mp4
@@ -1117,8 +1113,11 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,   
 大话西游,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
 4分钟为什么,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo7v64wUovvXL6QQ.mp4
 LUNA即便如此,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxfG98AUogN6hqgU.mp4
+BobGirlsNoway,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
 艾娃·麦克斯我也是,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
 2NE1（失踪的你）,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4
+Gavy20NJDontCall,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsu_c4gUohrr0igU.mp4
+EXIDL.I.E,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
 EXID啊_是的,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
 我的心会继续直播,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6_Ka4gUo3_-YYA.mp4
 泰坦尼克MV,   https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
@@ -1252,11 +1251,11 @@ CEC国际汉语文化,   http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际教育,   http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,   http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 🐼丨港澳台,   #genre#
-有线新闻,   http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,   http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线财经资讯,   http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 有线财经资讯,   http://61.10.2.146/live_freedirect/freehd208_h.live/playlist.m3u8
 有线财经资讯,   http://61.10.2.145/live_freedirect/freehd208_h.live/chunklist.m3u8
+有线直播,   http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
 TVBRICS,   http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳门莲花,   http://anren.live/HK/BiIOU11uLA.m3u8
 耀才财经,   http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -1271,14 +1270,12 @@ CNA新闻,   https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66e
 河源综合,   http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,   http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 韶关综合,   https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-韶关公共,   https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 影视频道,   #genre#
 万州影视,   http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 万州影视,   http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 平泉影视,   https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 南宁影视,   http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 绍兴影视,   http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-烟台影视,   http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 菏泽影视,   http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 定州国学影视,   https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 北京影视,   https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
@@ -1544,6 +1541,7 @@ BEYOND请将手放开,   http://em.21dtv.com/songs/60035529.mkv
 虎牙影视,   #genre#
 利箭特战队出击！,   https://epg.112114.xyz/huya/11352973
 斗鱼影视,   #genre#
+粤语综艺,   http://epg.112114.xyz/douyu/7919720
 华语经典,   http://epg.112114.xyz/douyu/434971
 吃米滴虫,   http://epg.112114.xyz/douyu/315457
 神乐影片1,   http://epg.112114.xyz/douyu/122402
@@ -1563,14 +1561,9 @@ BEYOND请将手放开,   http://em.21dtv.com/songs/60035529.mkv
 霍格影片,   http://epg.112114.xyz/douyu/8814650
 可乐电影,   http://epg.112114.xyz/douyu/20415
 冰冰经典电影,   http://epg.112114.xyz/douyu/74374
-奶虫恐怖电影,   http://epg.112114.xyz/douyu/263824
 奶瓶科幻片,   http://epg.112114.xyz/douyu/6655271
-避风港影院,   http://epg.112114.xyz/douyu/9826611
 林林影院,   http://epg.112114.xyz/douyu/9652323
-漫威电影,   http://epg.112114.xyz/douyu/4282654
-恐怖经典,   http://epg.112114.xyz/douyu/1165374
 变种人电影,   http://epg.112114.xyz/douyu/9651304
-华语电影,   http://epg.112114.xyz/douyu/3928
 华语动作电影,   http://epg.112114.xyz/douyu/1504768
 怀旧90,   http://epg.112114.xyz/douyu/9275635
 国产影片,   http://epg.112114.xyz/douyu/5423
@@ -1579,36 +1572,28 @@ BEYOND请将手放开,   http://em.21dtv.com/songs/60035529.mkv
 米娅电影,   http://epg.112114.xyz/douyu/6537888
 小九电影,   http://epg.112114.xyz/douyu/7136517
 连续剧1,   http://epg.112114.xyz/douyu/4549169
-连续剧2,   http://epg.112114.xyz/douyu/7623292
-连续剧3,   http://epg.112114.xyz/douyu/5689514
-连续剧5,   http://epg.112114.xyz/douyu/4396972
 游戏解说,   http://epg.112114.xyz/douyu/805235
 斗鱼小品,   http://epg.112114.xyz/douyu/3980787
 斗鱼探险,   http://epg.112114.xyz/douyu/3485629
-斗鱼动画,   http://epg.112114.xyz/douyu/7528160
 斗鱼电影1,   http://epg.112114.xyz/douyu/2935323
-斗鱼电影2,   http://epg.112114.xyz/douyu/7459925
-斗鱼电影3,   http://epg.112114.xyz/douyu/431460
 斗鱼电影4,   http://epg.112114.xyz/douyu/4246519
-斗鱼电影5,   http://epg.112114.xyz/douyu/7116591
-斗鱼电影6,   http://epg.112114.xyz/douyu/6776615
-斗鱼电影7,   http://epg.112114.xyz/douyu/7655471
 斗鱼电影8,   http://epg.112114.xyz/douyu/4290711
 斗鱼电影9,   http://epg.112114.xyz/douyu/6566671
-斗鱼电影11,   http://epg.112114.xyz/douyu/338759
+斗鱼电影10,   http://epg.112114.xyz/douyu/8475821
 斗鱼电影12,   http://epg.112114.xyz/douyu/2793084
-斗鱼电影13,   http://epg.112114.xyz/douyu/5067952
 斗鱼电影14,   http://epg.112114.xyz/douyu/413573
 斗鱼电影16,   http://epg.112114.xyz/douyu/426517
+斗鱼电影18,   http://epg.112114.xyz/douyu/7314294
+斗鱼电影19,   http://epg.112114.xyz/douyu/6582435
 斗鱼电影20,   http://epg.112114.xyz/douyu/323876
 斗鱼4K,   http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD8,   http://epg.112114.xyz/douyu/8663752
 斗鱼电影HD12,   http://epg.112114.xyz/douyu/2436390
-斗鱼电影HD25,   http://epg.112114.xyz/douyu/8945323
+斗鱼电影HD17,   http://epg.112114.xyz/douyu/3637726
+斗鱼电影HD18,   http://epg.112114.xyz/douyu/9292492
 斗鱼电影HD33,   http://epg.112114.xyz/douyu/52787
-斗鱼电影HD36,   http://epg.112114.xyz/douyu/1735337
-斗鱼电影HD39,   http://epg.112114.xyz/douyu/9683979
 斗鱼电影HD40,   http://epg.112114.xyz/douyu/1226741
+斗鱼搞笑HD1,   http://epg.112114.xyz/douyu/9220456
 斗鱼搞笑HD3,   http://epg.112114.xyz/douyu/9067836
 NewTV_哒啵赛事「IPV6」,   http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 NewTV_黑莓动画「IPV6」,   http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
