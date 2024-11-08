@@ -34,7 +34,6 @@ CCTV3 综艺,   https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV3 综艺,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
 CCTV3 综艺,   http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/
 CCTV3 综艺,   http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/
-CCTV3 综艺,   http://171.13.115.66:808/hls/3/index.m3u8
 CCTV3 综艺,   http://58.48.37.158:1111/tsfile/live/0003_1.m3u8
 CCTV4 中文国际,   http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8
 CCTV4 中文国际,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -557,7 +556,6 @@ CCTV164K,   https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 厦门卫视,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 康巴卫视,   http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8
 康巴卫视,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-康巴卫视,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8
 大湾区卫视,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 大湾区卫视,   http://39.134.136.151:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
 大湾区卫视,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
@@ -612,7 +610,6 @@ CETV4,   http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 卡酷少儿,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 卡酷少儿,   http://39.134.136.151:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
 金鹰卡通,   http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8
-金鹰卡通,   http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 金鹰卡通,   http://39.134.136.151:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
 金鹰卡通,   http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016601/1.m3u8
 金鹰卡通,   http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
@@ -822,10 +819,12 @@ NewTv中国功夫,   http://[2409:8087:74d9:21::6]/270000001128/9900000101/index
 余杭综合频道,   http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,   http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,   http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚姚江文化,   http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 嵊州新闻综合,   http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 诸暨新闻综合,   http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 上虞新闻综合,   http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞文化影院,   http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,   http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 兰溪新闻综合,   http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 纪录片频道,   #genre#
 纪录片频道,   #genre#
@@ -875,6 +874,7 @@ NewTv中国功夫,   http://[2409:8087:74d9:21::6]/270000001128/9900000101/index
 石屏综合,   http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 江川综合,   http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 通海电视台,   http://live.ynurl.com/video/s10038-thtv/index.m3u8?zyund
+巧家综合,   http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 运城新闻综合,   http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 运城公共频道,   http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
 运城科技教育,   http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
@@ -893,9 +893,7 @@ NewTv中国功夫,   http://[2409:8087:74d9:21::6]/270000001128/9900000101/index
 铜梁综合,   http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 万州综合,   http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
 万州综合,   http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8?zzhongqd
-万州综合,   http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
 万州三峡移民,   http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?zzhongqd
-万州三峡移民,   http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 江津新闻综合,   http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 武隆综合频道,   https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
 哈尔滨新闻综合,   http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
@@ -914,7 +912,6 @@ NewTv中国功夫,   http://[2409:8087:74d9:21::6]/270000001128/9900000101/index
 兵团八师石河子影文体,   http://124.88.144.73:1935/live/jjsh/playlist.m3u8?zxinjd
 兵团八师石河子经济生活,   http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
 兵团八师石河子教育,   http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
-奎屯汉语综合,   http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 奎屯哈萨克语,   http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 玛纳斯综合,   http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 贵南综合,   http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
@@ -1238,13 +1235,13 @@ YouTube,   #genre#
 移动专区,   #genre#
 IPV6,   #genre#
 CEC国际汉语文化,   http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,   http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,   http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 🐼丨港澳台,   #genre#
 有线新闻,   http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,   http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线财经资讯,   http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 有线财经资讯,   http://61.10.2.145/live_freedirect/freehd208_h.live/chunklist.m3u8
+有线直播,   http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
 TVBRICS,   http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳门莲花,   http://anren.live/HK/BiIOU11uLA.m3u8
 耀才财经,   http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -1274,6 +1271,7 @@ CNA新闻,   https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66e
 北京影视,   https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
 新昌休闲影视,   http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 石河子影视文体,   http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+南京影视,   http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 🐼丨NewTV,   #genre#
 电影轮播,   #genre#
 豆瓣高分,   http://epg.112114.xyz/douyu/8770422
@@ -1480,6 +1478,7 @@ TWINS恋爱大过天(演唱会),   http://em.21dtv.com/songs/60026998.mkv
 汪峰怒放的生命(演唱会),   http://em.21dtv.com/songs/60032787.mkv
 伍佰挪威的森林(演唱会),   http://em.21dtv.com/songs/60032810.mkv
 高胜美你走你的路,   http://em.21dtv.com/songs/60032577.mkv
+张智霖+许秋怡片片枫叶情(演唱会),   http://em.21dtv.com/songs/60033436.mkv
 辛晓琪亲爱的小孩,   http://em.21dtv.com/songs/60077183.mkv
 邰正宵亲爱的小孩,   http://em.21dtv.com/songs/60097616.mkv
 容祖儿去火星恋爱(演唱会),   http://em.21dtv.com/songs/60035841.mkv
@@ -1500,6 +1499,7 @@ BEYOND请将手放开,   http://em.21dtv.com/songs/60035529.mkv
 彭羚+容祖儿心淡(演唱会),   http://em.21dtv.com/songs/60084239.mkv
 谢有才兄弟(演唱会),   http://em.21dtv.com/songs/60084288.mkv
 张行+杨波三百六十五里路(演唱会),   http://em.21dtv.com/songs/60037168.mkv
+小武迟到,   http://em.21dtv.com/songs/60012779.mkv
 陈百强念亲恩(演唱会),   http://em.21dtv.com/songs/60032661.mkv
 任贤齐+李宗盛鬼迷心窍,   http://em.21dtv.com/songs/60019402.mkv
 薰妮故乡的雨,   http://em.21dtv.com/songs/60019097.mkv
@@ -1597,6 +1597,7 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,   
 华语经典,   http://epg.112114.xyz/douyu/434971
 吃米滴虫,   http://epg.112114.xyz/douyu/315457
 神乐影片1,   http://epg.112114.xyz/douyu/122402
+神乐影片2,   http://epg.112114.xyz/douyu/85894
 特辑影院,   http://epg.112114.xyz/douyu/3637778
 贝爷MAX厅,   http://epg.112114.xyz/douyu/4332
 漫威影片,   http://epg.112114.xyz/douyu/6140589
@@ -1616,71 +1617,31 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,   
 奶瓶科幻片,   http://epg.112114.xyz/douyu/6655271
 避风港影院,   http://epg.112114.xyz/douyu/9826611
 林林影院,   http://epg.112114.xyz/douyu/9652323
-漫威电影,   http://epg.112114.xyz/douyu/4282654
 恐怖经典,   http://epg.112114.xyz/douyu/1165374
 变种人电影,   http://epg.112114.xyz/douyu/9651304
-华语电影,   http://epg.112114.xyz/douyu/3928
-华语动作电影,   http://epg.112114.xyz/douyu/1504768
-怀旧90,   http://epg.112114.xyz/douyu/9275635
 国产影片,   http://epg.112114.xyz/douyu/5423
 麓山迷踪,   http://epg.112114.xyz/douyu/4505431
-高帧影片,   http://epg.112114.xyz/douyu/6763930
-米娅电影,   http://epg.112114.xyz/douyu/6537888
-小九电影,   http://epg.112114.xyz/douyu/7136517
 连续剧1,   http://epg.112114.xyz/douyu/4549169
 连续剧2,   http://epg.112114.xyz/douyu/7623292
-连续剧3,   http://epg.112114.xyz/douyu/5689514
 连续剧4,   http://epg.112114.xyz/douyu/7476264
-连续剧5,   http://epg.112114.xyz/douyu/4396972
 游戏解说,   http://epg.112114.xyz/douyu/805235
-斗鱼小品,   http://epg.112114.xyz/douyu/3980787
 斗鱼探险,   http://epg.112114.xyz/douyu/3485629
 斗鱼动画,   http://epg.112114.xyz/douyu/7528160
-斗鱼电影1,   http://epg.112114.xyz/douyu/2935323
 斗鱼电影2,   http://epg.112114.xyz/douyu/7459925
 斗鱼电影3,   http://epg.112114.xyz/douyu/431460
 斗鱼电影4,   http://epg.112114.xyz/douyu/4246519
-斗鱼电影5,   http://epg.112114.xyz/douyu/7116591
-斗鱼电影6,   http://epg.112114.xyz/douyu/6776615
-斗鱼电影7,   http://epg.112114.xyz/douyu/7655471
-斗鱼电影8,   http://epg.112114.xyz/douyu/4290711
 斗鱼电影9,   http://epg.112114.xyz/douyu/6566671
-斗鱼电影11,   http://epg.112114.xyz/douyu/338759
 斗鱼电影12,   http://epg.112114.xyz/douyu/2793084
-斗鱼电影13,   http://epg.112114.xyz/douyu/5067952
 斗鱼电影14,   http://epg.112114.xyz/douyu/413573
-斗鱼电影15,   http://epg.112114.xyz/douyu/5033502
 斗鱼电影16,   http://epg.112114.xyz/douyu/426517
-斗鱼电影17,   http://epg.112114.xyz/douyu/1274132
-斗鱼电影18,   http://epg.112114.xyz/douyu/7314294
-斗鱼电影19,   http://epg.112114.xyz/douyu/6582435
 斗鱼电影20,   http://epg.112114.xyz/douyu/323876
 斗鱼4K,   http://epg.112114.xyz/douyu/9249162
-斗鱼电影HD2,   http://epg.112114.xyz/douyu/10240553
-斗鱼电影HD8,   http://epg.112114.xyz/douyu/8663752
 斗鱼电影HD12,   http://epg.112114.xyz/douyu/2436390
-斗鱼电影HD17,   http://epg.112114.xyz/douyu/3637726
-斗鱼电影HD18,   http://epg.112114.xyz/douyu/9292492
-斗鱼电影HD19,   http://epg.112114.xyz/douyu/3637765rrt97
-斗鱼电影HD20,   http://epg.112114.xyz/douyu/10395991
-斗鱼电影HD21,   http://epg.112114.xyz/douyu/10395986
-斗鱼电影HD23,   http://epg.112114.xyz/douyu/ 6079455
-斗鱼电影HD24,   http://epg.112114.xyz/douyu/315131
 斗鱼电影HD25,   http://epg.112114.xyz/douyu/8945323
-斗鱼电影HD27,   http://epg.112114.xyz/douyu/248753
-斗鱼电影HD32,   http://epg.112114.xyz/douyu/10240510
-斗鱼电影HD33,   http://epg.112114.xyz/douyu/52787
 斗鱼电影HD36,   http://epg.112114.xyz/douyu/1735337
-斗鱼电影HD38,   http://epg.112114.xyz/douyu/6003761
-斗鱼电影HD39,   http://epg.112114.xyz/douyu/9683979
 斗鱼电影HD40,   http://epg.112114.xyz/douyu/1226741
-斗鱼电影HD41,   http://epg.112114.xyz/douyu/59612
-斗鱼电影HD42,   http://epg.112114.xyz/douyu/925724
-斗鱼搞笑HD3,   http://epg.112114.xyz/douyu/9067836
 斗鱼搞笑HD4,   http://epg.112114.xyz/douyu/9817729
 🇭🇰港台,   #genre#
-香港衛視,   http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-香港衛視,   http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 半島新聞,   https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半島新聞,   https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 環球電視,   http://zb.xzxwhcb.com:9999/hls/world.m3u8
