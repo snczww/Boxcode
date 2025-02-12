@@ -1,11 +1,16 @@
 version: '3.8'
-
+networks:
+  inner:
+    external: true
 services:
   web:
     image: nginx
-    container_name: github-pages-clone
+    container_name: box
     volumes:
       - ./html:/usr/share/nginx/html:ro
     ports:
       - "85:80"
     restart: always
+    networks:
+      inner:
+        ipv4_address: 172.2.0.8
