@@ -7,7 +7,7 @@ services:
     image: nginx
     container_name: box
     volumes:
-      - ./html:/usr/share/nginx/html:ro
+      - /homeshare/webs/box/html:/usr/share/nginx/html:ro
     ports:
       - "85:80"
     restart: always
