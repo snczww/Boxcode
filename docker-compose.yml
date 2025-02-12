@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  web:
+    image: nginx
+    container_name: github-pages-clone
+    volumes:
+      - ./html:/usr/share/nginx/html:ro
+    ports:
+      - "85:80"
+    restart: always
