@@ -6,6 +6,10 @@ services:
   web:
     image: nginx
     container_name: box
+    environment:
+      - LANG=zh_CN.UTF-8
+      - LANGUAGE=zh_CN.UTF-8
+      - LC_ALL=zh_CN.UTF-8
     volumes:
       - /homeshare/webs/box/html:/usr/share/nginx/html:ro
     ports:
